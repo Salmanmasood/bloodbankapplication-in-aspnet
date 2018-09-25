@@ -18,7 +18,7 @@
     <form id="form1" runat="server">
     <div>
     
-        <table class="auto-style1">
+        <table class="auto-style1" class="table table-responsive">
             <tr>
                 <td class="auto-style2">Email</td>
                 <td>
